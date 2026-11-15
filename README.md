@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![LeetCode 50 Days Badge 2025](https://img.shields.io/badge/LeetCode-50%20Days%20Badge%202025-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/MonK5/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/MonK5?theme=dark&font=Karma)](https://leetcode.com/medal/?showImg=0&id=7600272&isLevel=false)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/MonK5?theme=dark&font=Karma)](https://leetcode.com/u/MonK5/)
