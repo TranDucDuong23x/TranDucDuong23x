@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ### Certifications
 [![OpenSSF Developing Secure Software](https://img.shields.io/badge/OpenSSF-Developing%20Secure%20Software-003366?style=for-the-badge&logo=linuxfoundation)](https://www.credly.com/badges/d5e7463a-5799-4a6f-b0b4-46fdce3a9388/public_url)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/MonK5?theme=dark&font=Karma)](https://leetcode.com/medal/?showImg=0&id=7600272&isLevel=false)
